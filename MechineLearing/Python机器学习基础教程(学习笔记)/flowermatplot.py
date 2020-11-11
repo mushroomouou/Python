@@ -14,3 +14,4 @@ plt.ylabel([feature_names['3']])
 plt.xlabel([feature_names['2']])
 plt.title('Iris Data')
 plt.show()
+
