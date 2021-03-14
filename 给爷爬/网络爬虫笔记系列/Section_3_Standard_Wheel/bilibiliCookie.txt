@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: main_confirmation="1+36r/7jdFsQNy5a43NP37E8xHeSUfXq65pcNN1vEig="; path="/"; domain="www.bilibili.com"; path_spec; expires="2021-01-21 15:24:05Z"; httponly=None; version=0
